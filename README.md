@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/sujalgupta0008/smartlend/blob/main/images/SMARTLEND_Logo.jpg?raw=true" width= "320" height="240">
+  <img src="https://github.com/sujalgupta0008/smartlend/blob/main/images/SMARTLEND_Logo.jpg?raw=true" width= "320" height="340">
 </p>
 
 
@@ -23,4 +23,14 @@ At the end we aim to genrate various meaningfull insights and conclusions from t
 
 # 💡 Conclusions
 This project demonstrates a complete end-to-end solution to automate the loan eligibility process based on customer demographic and financial data. By leveraging machine learning techniques, we built a predictive model capable of identifying eligible applicants in real-time with high accuracy. This system enables financial institutions to streamline decision-making, reduce manual effort, and focus on high-potential customers, ultimately enhancing operational efficiency and customer satisfaction. The approach is scalable and can be integrated seamlessly with online application platforms for real-time loan eligibility checks.
+
+# Future Model
+
+
+
+<p align="center">
+  <img src="https://github.com/sujalgupta0008/smartlend/blob/main/images/Future_model.png?raw=true" width= "520" height="440">
+</p>
+
+
 
